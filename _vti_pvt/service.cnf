@@ -16,6 +16,7 @@ vti_publishmetainfokeys:VR|vti_assignedto vti_approvallevel vti_categories vti_d
 vti_ignorekeyboard:IR|0
 vti_navbuttonprevlabel:SR|Back
 vti_navbuttonnextlabel:SR|Next
+vti_htmloptimization:IW|-2147483584
 vti_approvallevels:VR|Approved Rejected Pending\\ Review
 vti_showhiddenpages:IR|1
 vti_navbuttonhomelabel:SR|Home
